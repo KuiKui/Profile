@@ -10,7 +10,7 @@ I've been working on a great diversity of projects : I started off by developing
 
 ### Keywords
 
-`PHP` `MySql` `Symfony` `Silex` `Git` `Bash` `JS` `Linux` `atoum` `Behat` `Scrum` `REST API`
+`PHP` `MySql` `Symfony` `Silex` `Git` `Bash` `JS` `Linux` `REST API` `CI` `atoum` `Behat` `Jenkins` `Graphite` `Scrum`
 
 and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
