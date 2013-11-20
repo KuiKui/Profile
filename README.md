@@ -8,9 +8,11 @@ I'm a developer since 1999, interested by :
 
 I've been working on a great diversity of projects : I started off by developing Playstation and Game Boy Advance video games for Disney Interactive, then I moved on to extranet for big companies (Renault Trucks, Bayer, Europcar) and online shopping site (LDLC.com, Homair.com). Lately, after working for a long time on medical softwares and their REST API at PMSIpilot, I was hired by a web agency in order to initiate a turn towards agile methods.
 
+I'm now closely taking part in the implementation of the second screen package for the M6 Group channels.
+
 ### Keywords
 
-`PHP` `MySql` `Symfony` `Silex` `Git` `Bash` `JS` `Linux` `REST API` `CI` `atoum` `Behat` `Jenkins` `Graphite` `Scrum`
+`PHP` `MySql` `Symfony` `Silex` `Git` `Bash` `JS` `Linux` `REST API` `CI` `atoum` `Jenkins` `Scrum`
 
 and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
