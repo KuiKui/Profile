@@ -12,7 +12,7 @@ I'm now closely taking part in the implementation of the second screen package f
 
 ### Keywords
 
-`PHP` `MySql` `Symfony` `Silex` `Git` `Bash` `JS` `Linux` `REST API` `CI` `atoum` `Jenkins` `Scrum`
+`PHP` `Symfony` `Silex` `MySql` `Git` `Bash` `Linux` `REST API` `CI` `Testing` `Jenkins` `Scrum`
 
 and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
@@ -21,12 +21,14 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 ##### Tools
 
 * [Crew](http://crew-cr.org) : code review tool for Git projects,
+* [GitHub Enterprise Archive](http://ghearchive.org/) : archive and graph your Github Enterprise timeline,
 * [Gitboard](http://kuikui.github.com/Gitboard) : CLI dashboard for a quick overview of Git projects,
 * [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support.
 
 ##### Lib
 
-* [MemcacheServiceProvider](https://github.com/KuiKui/MemcacheServiceProvider) : Memcache service provider for Silex.
+* [MemcacheServiceProvider](https://github.com/KuiKui/MemcacheServiceProvider) : Memcache service provider for Silex,
+* [RedisMock](https://github.com/M6Web/RedisMock) : Simple PHP Redis mock.
 
 ##### Services
 
@@ -35,7 +37,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ##### Chrome extension
 
-* [Octosplit](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb) : Chrome extension that provides side by side diffs in GitHub.
+* [Octosplit](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb) : Chrome extension that provides side by side diffs in GitHub,
+* [Jenkins Terminal Colors](https://chrome.google.com/webstore/detail/jenkins-terminal-colors/njhooapdhhjehkemlbobcdenmdbiooml) : Chrome extension that provides terminal colors in the *Console* panels of Jenkins.
 
 ### Employment
 
