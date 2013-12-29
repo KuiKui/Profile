@@ -37,8 +37,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ##### Chrome extension
 
-* [Octosplit](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb) : Chrome extension that provides side by side diffs in GitHub,
-* [Jenkins Terminal Colors](https://chrome.google.com/webstore/detail/jenkins-terminal-colors/njhooapdhhjehkemlbobcdenmdbiooml) : Chrome extension that provides terminal colors in the *Console* panels of Jenkins.
+* [Octosplit](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb) : side by side diffs in GitHub,
+* [Jenkins Terminal Colors](https://chrome.google.com/webstore/detail/jenkins-terminal-colors/njhooapdhhjehkemlbobcdenmdbiooml) : terminal colors in the *Console* panels of Jenkins.
 
 ### Employment
 
