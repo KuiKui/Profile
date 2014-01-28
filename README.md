@@ -12,7 +12,7 @@ I'm now closely taking part in the implementation of the second screen package f
 
 ### Keywords
 
-`PHP` `Symfony` `Silex` `MySql` `Git` `Bash` `Linux` `REST API` `CI` `Testing` `Jenkins` `Scrum`
+`PHP` `Symfony` `MySql` `Redis` `Git` `Vagrant` `Bash` `Linux` `REST API` `CI` `Testing` `Jenkins` `Scrum`
 
 and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
@@ -23,7 +23,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 * [Crew](http://crew-cr.org) : code review tool for Git projects,
 * [GitHub Enterprise Archive](http://ghearchive.org/) : archive and graph your Github Enterprise timeline,
 * [Gitboard](http://kuikui.github.com/Gitboard) : CLI dashboard for a quick overview of Git projects,
-* [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support.
+* [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support,
+* [Babitch](https://github.com/M6Web/Babitch) : manage table soccer scores with API.
 
 ##### Lib
 
