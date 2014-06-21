@@ -20,7 +20,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ##### Tools
 
-* [Crew](http://crew-cr.org) : code review tool for Git projects,
+* [Crew](http://crew-cr.github.io/Crew) : code review tool for Git projects,
 * [GitHub Enterprise Archive](http://ghearchive.org/) : archive and graph your Github Enterprise timeline,
 * [Gitboard](http://kuikui.github.com/Gitboard) : CLI dashboard for a quick overview of Git projects,
 * [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support,
