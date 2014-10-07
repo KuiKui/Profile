@@ -39,11 +39,12 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 ##### Chrome extension
 
 * [Octosplit](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb) : side by side diffs in GitHub,
-* [Jenkins Terminal Colors](https://chrome.google.com/webstore/detail/jenkins-terminal-colors/njhooapdhhjehkemlbobcdenmdbiooml) : terminal colors in the *Console* panels of Jenkins.
+* [Jenkins Terminal Colors](https://chrome.google.com/webstore/detail/jenkins-terminal-colors/njhooapdhhjehkemlbobcdenmdbiooml) : terminal colors in the *Console* panels of Jenkins,
+* [Octowhite](https://chrome.google.com/webstore/detail/octowhite/akdpbfkleiblgjpabgehaboecmlkkepg) : adds a *whitespace* toggle button in the GitHub diffs.
 
 ### Employment
 
-* Lead developer, Present @ [Xotelia](https://xotelia.github.io/)
+* Lead developer, Present @ [Xotelia](http://techos.xotelia.com/)
 * Lead developer, 2013 - 2014 @ [Team Cytron](http://cytron.fr/), [M6 Web](http://www.groupem6.fr/le-groupe/activites/diversifications/m6-web.html)
 * Lead developer & Scrum evangelist, 2012 @ [C2iS](http://www.c2is.fr)
 * R&D team manager, 2009 - 2011 @ Team Fusion, [PMSIpilot](http://www.pmsipilot.com)
