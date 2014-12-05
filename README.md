@@ -22,7 +22,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 * [Crew](http://crew-cr.github.io/Crew) : code review tool for Git projects,
 * [Babitch](https://github.com/M6Web/Babitch) : manage table soccer scores with API.
-* [GitHub Enterprise Archive](https://github.com/M6Web/GitHubEnterpriseArchive) : archive and graph your Github Enterprise timeline,
+* [GitHub Enterprise Archive](http://tech.m6web.fr/GitHubEnterpriseArchive/) : archive and graph your Github Enterprise timeline,
 * [Gitboard](http://kuikui.github.com/Gitboard) : CLI dashboard for a quick overview of Git projects,
 * [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support,
 
