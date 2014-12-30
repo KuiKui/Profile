@@ -21,10 +21,10 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 ##### Tools
 
 * [Crew](http://crew-cr.github.io/Crew) : code review tool for Git projects,
-* [Babitch](https://github.com/M6Web/Babitch) : manage table soccer scores with API.
+* [Babitch](https://github.com/M6Web/Babitch) : manage table soccer scores with API,
 * [GitHub Enterprise Archive](http://tech.m6web.fr/GitHubEnterpriseArchive/) : archive and graph your Github Enterprise timeline,
 * [Gitboard](http://kuikui.github.com/Gitboard) : CLI dashboard for a quick overview of Git projects,
-* [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support,
+* [Baseboard](http://kuikui.github.com/Baseboard) : dashboard for Basecamp projects, with Hudson/Jenkins support.
 
 ##### Lib
 
@@ -35,7 +35,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 * [Octoboard.com](http://octoboard.com) : GitHub activity dashboard built for the [GitHub Data Challenge](https://github.com/blog/1118-the-github-data-challenge) (came in [first place](https://github.com/blog/1162-github-data-challenge-winners)),
 * [Stickdown.me](http://stickdown.me) : unauthenticated online todo list,
-* [MaPac](http://mapac.denisroussel.fr/) : répartition des aides perçues au titre de la PAC, en France.
+* [MaPac](http://mapac.denisroussel.fr/) : répartition des aides perçues au titre de la PAC, en France,
+* [Coconut CI](http://vimeo.com/47611483) : continuous integration service (before it was trendy :).
 
 ##### Chrome extension
 
