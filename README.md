@@ -6,9 +6,9 @@ I'm a developer since 1999, interested by :
 * productivity : agile methods, lean management,
 * user centric design.
 
-I've been working on a great diversity of projects : I started off by developing Playstation and Game Boy Advance video games for Disney Interactive, then I moved on to extranet for big companies (Renault Trucks, Bayer, Europcar) and online shopping site (LDLC.com, Homair.com). Lately, after working for a long time on medical softwares and their [REST API](http://pmsipilot.github.io/API/documentation.html) at PMSIpilot, I was hired by a web agency in order to initiate a turn towards agile methods.
+I've been working on a great diversity of projects : I started off by developing Playstation and Game Boy Advance video games for Disney Interactive, then I moved on to extranet for big companies (Renault Trucks, Bayer, Europcar) and online shopping site (LDLC.com, Homair.com). Then, after working for a long time on medical softwares and their [REST API](http://pmsipilot.github.io/API/documentation.html) at PMSIpilot, I was hired by a web agency in order to initiate a turn towards agile methods.
 
-I'm now closely taking part in the implementation of the second screen package for the M6 Group channels.
+Lately I have been closely taking part in the implementation of the second screen package for the M6 Group channels and I helped a french startup to raise 1M€ in funding by creating a scalable platform architecture.
 
 ### Keywords
 
@@ -33,16 +33,15 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ##### Services
 
-* [Octoboard.com](http://octoboard.com) : GitHub activity dashboard built for the [GitHub Data Challenge](https://github.com/blog/1118-the-github-data-challenge) (came in [first place](https://github.com/blog/1162-github-data-challenge-winners)),
-* [Stickdown.me](http://stickdown.me) : unauthenticated online todo list,
+* Octoboard : GitHub activity dashboard built for the [GitHub Data Challenge](https://github.com/blog/1118-the-github-data-challenge) (came in [first place](https://github.com/blog/1162-github-data-challenge-winners)),
 * [MaPac](http://mapac.denisroussel.fr/) : répartition des aides perçues au titre de la PAC, en France,
 * [Coconut CI](http://vimeo.com/47611483) : continuous integration service (before it was trendy :).
 
 ##### Chrome extension
 
-* [Octosplit](https://chrome.google.com/webstore/detail/mnkacicafjlllhcedhhphhpapmdgjfbb) : side by side diffs in GitHub,
 * [Jenkins Terminal Colors](https://chrome.google.com/webstore/detail/jenkins-terminal-colors/njhooapdhhjehkemlbobcdenmdbiooml) : terminal colors in the *Console* panels of Jenkins,
-* [Octowhite](https://chrome.google.com/webstore/detail/octowhite/akdpbfkleiblgjpabgehaboecmlkkepg) : adds a *whitespace* toggle button in the GitHub diffs.
+* [Octowhite](https://chrome.google.com/webstore/detail/octowhite/akdpbfkleiblgjpabgehaboecmlkkepg) : adds a *whitespace* toggle button in the GitHub diffs,
+* [Octosplit](https://github.com/KuiKui/Octosplit) : side by side diffs in GitHub.
 
 ### Employment
 
