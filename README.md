@@ -40,7 +40,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 ##### Chrome extension
 
 * [Jenkins Terminal Colors](https://chrome.google.com/webstore/detail/jenkins-terminal-colors/njhooapdhhjehkemlbobcdenmdbiooml) : terminal colors in the *Console* panels of Jenkins,
-* [Octowhite](https://chrome.google.com/webstore/detail/octowhite/akdpbfkleiblgjpabgehaboecmlkkepg) : adds a *whitespace* toggle button in the GitHub diffs,
+* [Octowhite](https://github.com/KuiKui/Octowhite) : adds a *whitespace* toggle button in the GitHub diffs,
 * [Octosplit](https://github.com/KuiKui/Octosplit) : side by side diffs in GitHub.
 
 ### Employment
