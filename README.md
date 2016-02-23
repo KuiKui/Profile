@@ -12,7 +12,13 @@ Lately I have been closely taking part in the implementation of the second scree
 
 ### Keywords
 
-`PHP` `Symfony` `MySql` `Redis` `Git` `Vagrant` `Bash` `Linux` `REST API` `Testing` `CI` `Scrum`
+web : `PHP` `Symfony` `Silex` `MySql` `Parse` `Redis`
+
+mobile : `Swift` `Xcode` `fastlane` `Google Cloud Messaging`
+
+env : `Git` `Vagrant` `Bash` `Linux`
+
+process : `Automation` `Testing` `Continuous Integration` `Scrum`
 
 and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
@@ -45,7 +51,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ### Employment
 
-* R&D team manager, Present @ [Xotelia](http://techos.xotelia.com/)
+* Owner, 2016 - Present @ [Apseeder](http://apseeder.com/)
+* R&D team manager, 2015 @ [Xotelia](http://techos.xotelia.com/)
 * Lead developer, 2013 - 2014 @ [Team Cytron](http://cytron.fr/), [M6 Web](http://tech.m6web.fr)
 * Lead developer & Scrum evangelist, 2012 @ [C2iS](http://www.c2is.fr)
 * R&D team manager, 2009 - 2011 @ Team Fusion, [PMSIpilot](http://www.pmsipilot.com)
