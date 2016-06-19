@@ -3,7 +3,7 @@
 I'm a developer since 1999, interested by :
 
 * software quality : VCSs, code review, testing, continuous integration,
-* productivity : agile methods, lean management,
+* productivity : agile methods, lean management, pragmatic approaches,
 * user centric design.
 
 I've been working on a great diversity of projects : I started off by developing Playstation and Game Boy Advance video games for Disney Interactive, then I moved on to extranet for big companies (Renault Trucks, Bayer, Europcar) and online shopping site (LDLC.com, Homair.com). Then, after working for a long time on medical softwares and their [REST API](http://pmsipilot.github.io/API/documentation.html) at PMSIpilot, I was hired by a web agency in order to initiate a turn towards agile methods.
@@ -59,6 +59,12 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 * CTO and co-founder, 2004 @ [Point Cube](http://www.pointcube.fr)
 * Video games lead developer, 2000 - 2003 @ Doki Denki Studio
 * Video games developer, 1999 @ Etranges Libellules
+
+### Posts
+
+* [Refonte du système de vote chez M6Web](http://tech.m6web.fr/refonte-de-notre-systeme-de-vote/) [fr],
+* [La qualité](https://github.com/KuiKui/Blog/blob/master/posts/2012-02-08_La-qualite.md#la-qualité) [fr],
+* [Coke, pour bien sniffer son code](http://tech.m6web.fr/coke-pour-bien-sniffer-son-code) [fr].
 
 ### Contact
 
