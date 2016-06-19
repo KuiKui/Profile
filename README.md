@@ -51,6 +51,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ### Employment
 
+* Co-founder, 2016 @ [Apseeder](http://apseeder.com/),
 * R&D team manager, 2015 @ [Xotelia](http://techos.xotelia.com/)
 * Lead developer, 2013 - 2014 @ [Team Cytron](http://cytron.fr/), [M6 Web](http://tech.m6web.fr)
 * Lead developer & Scrum evangelist, 2012 @ [C2iS](http://www.c2is.fr)
