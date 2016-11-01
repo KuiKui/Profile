@@ -40,7 +40,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 ##### Services
 
 * Octoboard : GitHub activity dashboard built for the [GitHub Data Challenge](https://github.com/blog/1118-the-github-data-challenge) (came in [first place](https://github.com/blog/1162-github-data-challenge-winners)),
-* [MaPac](http://mapac.denisroussel.fr/) : répartition des aides perçues au titre de la PAC, en France,
+* [MaPac](http://mapac.kyklydse.com/) : répartition des aides perçues au titre de la PAC, en France,
 * [Coconut CI](http://vimeo.com/47611483) : continuous integration service (before it was trendy :).
 
 ##### Chrome extension
@@ -53,7 +53,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 * Co-founder, 2016 @ [Apseeder](http://apseeder.com/),
 * R&D team manager, 2015 @ [Xotelia](http://techos.xotelia.com/)
-* Lead developer, 2013 - 2014 @ [Team Cytron](http://cytron.fr/), [M6 Web](http://tech.m6web.fr)
+* Lead developer, 2013 - 2014 @ Team Cytron, [M6 Web](http://tech.m6web.fr)
 * Lead developer & Scrum evangelist, 2012 @ [C2iS](http://www.c2is.fr)
 * R&D team manager, 2009 - 2011 @ Team Fusion, [PMSIpilot](http://www.pmsipilot.com)
 * Web developer, 2005 - 2008 @ [C2iS](http://www.c2is.fr) & [LDLC.com](http://www.ldlc.com)
