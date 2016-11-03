@@ -14,11 +14,11 @@ Lately I have been closely taking part in the implementation of the second scree
 
 web : `PHP` `Symfony` `Silex` `MySql` `Parse` `Redis` `RabbitMQ`
 
-mobile : `Swift` `Xcode` `fastlane` `Google Cloud Messaging`
-
 env : `Git` `Vagrant` `Ansible` `Bash` `Linux`
 
 process : `Automation` `Testing` `Continuous Integration` `Webperf` `Scrum` `Internal blog`
+
+mobile : `Swift` `Xcode` `fastlane` `Google Cloud Messaging`
 
 and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
