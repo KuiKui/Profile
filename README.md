@@ -43,7 +43,7 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 * [MaPac](http://mapac.kyklydse.com/) : répartition des aides perçues au titre de la PAC, en France,
 * [Coconut CI](http://vimeo.com/47611483) : continuous integration service (before it was trendy :).
 
-##### Chrome extension
+##### Chrome extension (completely useless)
 
 * [Jenkins Terminal Colors](https://chrome.google.com/webstore/detail/jenkins-terminal-colors/njhooapdhhjehkemlbobcdenmdbiooml) : terminal colors in the *Console* panels of Jenkins,
 * [Octowhite](https://github.com/KuiKui/Octowhite) : adds a *whitespace* toggle button in the GitHub diffs,
@@ -51,7 +51,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ### Employment
 
-* Co-founder, 2016 @ [Apseeder](http://apseeder.com/),
+* Developer, 2016 - now @ [Wizaplace](http://tech.wizaplace.com/),
+* Co-founder, 2016 - now @ [Apseeder](http://apseeder.com/),
 * R&D team manager, 2015 @ [Xotelia](http://techos.xotelia.com/)
 * Lead developer, 2013 - 2014 @ Team Cytron, [M6 Web](http://tech.m6web.fr)
 * Lead developer & Scrum evangelist, 2012 @ [C2iS](http://www.c2is.fr)
@@ -65,7 +66,8 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 * [Refonte du système de vote chez M6Web](http://tech.m6web.fr/refonte-de-notre-systeme-de-vote/) [fr],
 * [La qualité](https://github.com/KuiKui/Blog/blob/master/posts/2012-02-08_La-qualite.md#la-qualité) [fr],
-* [Coke, pour bien sniffer son code](http://tech.m6web.fr/coke-pour-bien-sniffer-son-code) [fr].
+* [Coke, pour bien sniffer son code](http://tech.m6web.fr/coke-pour-bien-sniffer-son-code) [fr],
+* [La 13ème règle de Joël](http://tech.wizaplace.com/posts/la-13eme-regle-de-joel) [fr].
 
 ### Contact
 
