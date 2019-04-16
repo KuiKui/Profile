@@ -10,13 +10,15 @@ I've been working on a great diversity of projects : I started off by developing
 
 Lately I have been closely taking part in the implementation of the second screen package for the M6 Group channels and I helped a french startup to raise 1M€ in funding by creating a scalable platform architecture.
 
+Then after almost 2 years working with an awesome R&D team on a BtoB marketplace generic system for too greedy investors (which have raise a lot of money with the solution), I've start to help a fresh startup with more honest vision maintaining and developing their multiplatorm service for driving schools (desktops, smartphones and tabs).
+
 ### Keywords
 
 web : `PHP` `Symfony` `Silex` `MySql` `Parse` `Redis` `RabbitMQ`
 
 env : `Git` `Vagrant` `Ansible` `Bash` `Linux`
 
-process : `Automation` `Testing` `Continuous Integration` `Webperf` `Scrum` `Internal blog`
+process : `Automation` `Testing` `Continuous Integration` `Webperf` `Scrum` `Monitoring`
 
 mobile : `Swift` `Xcode` `fastlane` `Google Cloud Messaging`
 
@@ -40,7 +42,6 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 ##### Services
 
 * Octoboard : GitHub activity dashboard built for the [GitHub Data Challenge](https://github.com/blog/1118-the-github-data-challenge) (came in [first place](https://github.com/blog/1162-github-data-challenge-winners)),
-* [MaPac](http://mapac.kyklydse.com/) : répartition des aides perçues au titre de la PAC, en France,
 * [Coconut CI](http://vimeo.com/47611483) : continuous integration service (before it was trendy :).
 
 ##### Chrome extension (completely useless)
@@ -51,13 +52,14 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ### Employment
 
-* Developer, 2016 - now @ [Wizaplace](http://tech.wizaplace.com/),
+* Lead developer, 2018 - now @ [Mounki](https://mounki.fr/),
+* Developer, 2016 - 2017 @ [Wizaplace](http://tech.wizaplace.com/),
 * Co-founder, 2016 - now @ [Apseeder](http://apseeder.com/),
 * R&D team manager, 2015 @ [Xotelia](http://techos.xotelia.com/)
 * Lead developer, 2013 - 2014 @ Team Cytron, [M6 Web](http://tech.m6web.fr)
-* Lead developer & Scrum evangelist, 2012 @ [C2iS](http://www.c2is.fr)
+* Lead developer & Scrum evangelist, 2012 @ [C2iS](http://www.acti.fr)
 * R&D team manager, 2009 - 2011 @ Team Fusion, [PMSIpilot](http://www.pmsipilot.com)
-* Web developer, 2005 - 2008 @ [C2iS](http://www.c2is.fr) & [LDLC.com](http://www.ldlc.com)
+* Web developer, 2005 - 2008 @ [C2iS](http://www.acti.fr) & [LDLC.com](http://www.ldlc.com)
 * CTO and co-founder, 2004 @ [Point Cube](http://www.pointcube.fr)
 * Video games lead developer, 2000 - 2003 @ Doki Denki Studio
 * Video games developer, 1999 @ Etranges Libellules
