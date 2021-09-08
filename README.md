@@ -12,6 +12,8 @@ Lately I have been closely taking part in the implementation of the second scree
 
 Then after almost 2 years working with an awesome R&D team on a BtoB marketplace generic system for too greedy investors (which have raise a lot of money with the solution), I've start to help a fresh startup with more honest vision maintaining and developing their multiplatorm service for driving schools (desktops, smartphones and tabs).
 
+I now lead a fantastic R&D team creating a brand new EDMS (Electronic Document Management System) while enjoying the benefits of full-remote work.
+
 ### Keywords
 
 web : `PHP` `Symfony` `Silex` `MySql` `Parse` `Redis` `RabbitMQ`
