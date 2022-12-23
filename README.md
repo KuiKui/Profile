@@ -69,9 +69,9 @@ and also but older : `C#` `SqlServer` `Java` `SVN` `C++` `real time 3D`
 
 ### Posts
 
-* [Refonte du système de vote chez M6Web](http://tech.m6web.fr/refonte-de-notre-systeme-de-vote/) [fr],
+* [Refonte du système de vote chez M6Web](https://tech.bedrockstreaming.com/2014/02/18/refonte-de-notre-systeme-de-vote.html) [fr],
 * [La qualité](https://github.com/KuiKui/Blog/blob/master/posts/2012-02-08_La-qualite.md#la-qualité) [fr],
-* [Coke, pour bien sniffer son code](http://tech.m6web.fr/coke-pour-bien-sniffer-son-code) [fr],
+* [Coke, pour bien sniffer son code](https://tech.bedrockstreaming.com/coke-pour-bien-sniffer-son-code) [fr],
 * [La 13ème règle de Joël](https://github.com/KuiKui/Blog/blob/master/posts/2017-01-02_La-13eme-regle-de-Joel.md#la-13%C3%A8me-r%C3%A8gle-de-joel) [fr].
 
 ### Contact
